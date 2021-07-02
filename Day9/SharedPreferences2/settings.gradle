@@ -1,0 +1,2 @@
+rootProject.name = "SharedPreferences2"
+include ':app'
