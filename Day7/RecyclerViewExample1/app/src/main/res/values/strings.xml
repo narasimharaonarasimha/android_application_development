@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerViewExample1</string>
+    <string-array name="countries">
+        <item>Albania</item>
+        <item>Germany</item>
+        <item>Greece</item>
+        <item>Italy</item>
+        <item>Kosovo</item>
+        <item>Turkey</item>
+    </string-array>
+    <string-array name="details">
+        <item>Flag - Albania</item>
+        <item>Flag - Germany</item>
+        <item>Flag - Greece</item>
+        <item>Flag - Italy</item>
+        <item>Flag - Kosovo</item>
+        <item>Flag - Turkey</item>
+    </string-array>
+    <integer-array name="flags">
+        <item>@drawable/albania</item>
+        <item>@drawable/germany</item>
+        <item>@drawable/greece</item>
+        <item>@drawable/italy</item>
+        <item>@drawable/kosovo</item>
+        <item>@drawable/turkey</item>
+    </integer-array>
+</resources>

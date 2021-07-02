@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CafeApplication</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_intro">Desserts</string>
+
+    <string name="donut_content_description"> Donut Image</string>
+    <string name="froyo_content_description"> Froyo Image</string>
+    <string name="icecream_content_description"> Icecream Image</string>
+
+    <string name="donut_description"> Donuts are glazed and sprinkled with candy</string>
+    <string name="froyo_description"> FroYo is premium self-serve frozen yogurt
+    </string>
+    <string name="icecream_description"> Ice cream sandwiches have chocolate wafers
+        and vanilla filling</string>
+    <string name="donut_order_message"> You have ordered a donut</string>
+    <string name="froyo_order_message"> You have ordered a Froyo</string>
+    <string name="icecream_order_message"> You have ordered an Icecream</string>
+
+</resources>

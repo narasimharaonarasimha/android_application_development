@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Count Click</string>
+    <string name="button_toast_text">TOAST</string>
+    <string name="button_count_text">COUNT</string>
+    <string name="show_count_text">0</string>
+    <string name="welcome_message">Welcome to ICT Kosovo</string>
+</resources>

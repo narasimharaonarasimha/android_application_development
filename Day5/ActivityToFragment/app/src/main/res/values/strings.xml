@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Activity To Fragment</string>
+    <string name="title">BMI Calculator</string>
+    <string name="weight_hint">Enter your weight (in kgs)</string>
+    <string name="height_hint">Enter your height (in cms)</string>
+    <string name="button_calculate_text">Calculate BMI</string>
+    <string name="message">If BMI is greater than 25, it is considered overweight</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_text">My First Fragment</string>
+
+</resources>
